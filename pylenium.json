@@ -1,0 +1,27 @@
+{
+  "driver": {
+    "browser": "chrome",
+    "remote_url": "",
+    "wait_time": 10,
+    "page_load_wait_time": 0,
+    "options": ["headless", "disable-dev-shm-usage"],
+    "capabilities": {},
+    "experimental_options": null,
+    "extension_paths": [],
+    "webdriver_kwargs": {},
+    "seleniumwire_enabled": false,
+    "seleniumwire_options": {},
+    "local_path": ""
+  },
+  "logging": {
+    "screenshots_on": true
+  },
+  "viewport": {
+    "maximize": false,
+    "width": 2560,
+    "height": 1440,
+    "orientation": "portrait"
+  },
+
+  "customer": {}
+}

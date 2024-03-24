@@ -1,4 +1,4 @@
 image: chetan1111/gitpod-selenium
 
 tasks:
-  - init: pip install selenium webdriver-manager  
+  - init: pip install selenium webdriver-manager pyleniumio
